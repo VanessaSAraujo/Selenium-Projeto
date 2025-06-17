@@ -59,7 +59,9 @@ Este projeto tem como objetivo automatizar a validação da tela de **login** e 
 - PyTest
 
 ---
-👩‍🎓 Autoria
+## 👩‍🎓 Autoria
 Desenvolvido por Vanessa Silva Araujo, Gabriel Dias, Jeferson Almeida, Wallace Dias e Diego Henrique.
+
 Curso: Análise e Desenvolvimento de Sistemas - SENAI
+
 Disciplina: Teste de Sistemas
